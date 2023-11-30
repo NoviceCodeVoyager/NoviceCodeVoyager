@@ -28,6 +28,10 @@ I document and organize the problems I solve on my blog. To check it out, click 
 When I'm not coding or engaged in coding-related studies, I prefer to unwind and relieve stress through gaming or listening to music.   
 I believe music is an ideal companion for both work and play. Whether diving into intense FPS battles or immersive RPG adventures, I love exploring virtual worlds and the storytelling possibilities games offer.
 
+## 🌟 Profile Image
+
+This profile image was created with Bing Image Creator.
+
 ## 🔗 Connect with Me
 
 Let's connect and share our passions! Feel free to reach out on [here](https://github.com/WoojinJeonkr), and you can check it right here on GitHub as you're viewing it now.
