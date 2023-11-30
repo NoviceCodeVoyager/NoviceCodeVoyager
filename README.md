@@ -1,4 +1,4 @@
-# 👋 Hello, I'm NoviceCodeVoyager!
+# 👋 Hello, I'm novicecodevoyager!
 
 I'm an independent learner passionate about development, currently based in Seoul, South Korea.   
 I have experience in the development field at an IT company. Currently, I am taking a break to address the areas where I feel lacking in my knowledge and focus on self-directed learning and skill improvement.
